@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+/* Header styles */
+
+.header-area{
+    text-align: center;
+    background-image: url(./images/donation6.jpg);
+    padding: 200px;
+    color: aliceblue;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    .header-area h1{
+        font-size: 60px;
+        margin-bottom: 10px;
+    }
+
+    .header-area p{
+        font-size: 20px;
+        margin-bottom: 50px;
+        margin-top: 10px;
+    }
+
+.donate-button{
+    padding: 15px;
+    font-size: 20px;
+    background-color: orangered;
+    font-weight: 500;
+    border: 0;
+    color: aliceblue;
+    border-radius: 5px;
+}
+
+/* Section styles */
+
+.first-section{
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.first-section h1{
+    font-size: 45px;
+    padding-bottom: 20px;
+}
+
+.first-section p{
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: gray;
+}
+
+.taka-section{
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.taka-section h2{
+    font-size: 30px;
+    color: gray;
+    margin: 30px;
+    padding: 20px;
+    background-color: rgba(237, 219, 219, 0.934);
+    border-radius: 5px;
+}
+.special {
+    font-size: 32px;
+    background-color: orangered;
+    border: 2px solid yellow;
+    padding: 17px;
+    border-radius: 5px;
+}
+
+.taka-end p{
+    color: gray;
+}
+
+hr{
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.donation-plan{
+    padding: 100px 0px 50px 0px;
+}
+
+.donation-plan p{
+    color: gray;
+
+}
