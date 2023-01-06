@@ -130,3 +130,22 @@ hr{
     background-color:lightblue;
     border-radius: 5px;
 }
+
+
+.banner-section{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner-content{
+
+}
+
+.banner-img{
+  
+
+}
